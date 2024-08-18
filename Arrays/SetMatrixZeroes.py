@@ -6,6 +6,8 @@ Input: matrix = [[1,1,1],[1,0,1],[1,1,1]]
 Output: [[1,0,1],[0,0,0],[1,0,1]]
 '''
 
+
+#For brute force approach and explanation: https://leetcode.com/problems/set-matrix-zeroes/solutions/5652102/easy-solution-with-detailed-explanation-brute-force-optimized-solution
 #Optimized Code
 
 class Solution:
